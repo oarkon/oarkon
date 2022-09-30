@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **R&D Chief at Packaging Company**
 
-- 🌱 I’m currently learning (The learning never ends!) **Javascript,NodeJS,Bun,React,Vue,Typescript**
+- 🌱 I’m currently writing and learning (The learning never ends!) **Javascript,NodeJS,Bun,React,Vue,Typescript**
 
 - 👯 My Interest's are **Web Dev, Cloud and Backend**
 
